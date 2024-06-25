@@ -1,5 +1,5 @@
 ## here are some common Vi (and Vim) commands that might come up in an interview:
-############ Entering Insert Mode:
+#### Entering Insert Mode:
 ```
 i: Enter insert mode before the cursor.
 I: Enter insert mode at the beginning of the current line.
