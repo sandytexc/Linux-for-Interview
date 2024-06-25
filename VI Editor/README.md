@@ -8,3 +8,7 @@ A: Enter insert mode at the end of the current line.
 o: Open a new line below the current line and enter insert mode.
 O: Open a new line above the current line and enter insert mode.
 ```
+#### Exiting Insert Mode:
+```
+Esc: Exit insert mode.
+```
